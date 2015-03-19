@@ -1,4 +1,4 @@
 infra
 =====
 
-some archives about infra to devops
+some archives about infra
